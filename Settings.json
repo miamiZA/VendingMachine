@@ -1,0 +1,54 @@
+﻿{
+  "PurseConfiguration": [
+    {
+      "Nominal": 10,
+      "Number": 10
+    },
+    {
+      "Nominal": 20,
+      "Number": 20
+    },
+    {
+      "Nominal": 50,
+      "Number": 50
+    },
+    {
+      "Nominal": 100,
+      "Number": 100
+    }
+    ,
+    {
+      "Nominal": 200,
+      "Number": 200
+    }
+  ],
+
+  "StockConfiguration": [
+    {
+      "Title": "Water 150ml",
+      "Cost": 20,
+      "NumberInStock": 20
+    },
+    {
+      "Title": "Cooldrink 330ml",
+      "Cost": 50,
+      "NumberInStock": 20
+    },
+    {
+      "Title":"Cooldrink 500ml",
+      "Cost": 100,
+      "NumberInStock": 20
+    },
+    {
+      "Title": "Chips 120g",
+      "Cost": 60,
+      "NumberInStock": 20
+    },
+    {
+      "Title": "Chips 170g",
+      "Cost": 70,
+      "NumberInStock": 20
+    }
+  ]
+
+}
